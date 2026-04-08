@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi there
 
-<!--
-**evandev-01/evandev-01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Evan.
 
-Here are some ideas to get you started:
+This account is mainly used for small projects, experiments, and testing new ideas.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What you'll find here
+
+- small coding experiments
+- utility scripts
+- prototypes
+- learning projects
+
+## Interests
+
+- bioinformatics
+- data analysis
+- developer tools
+- automation
+
+## Notes
+
+Most repositories here are lightweight and practical.  
+Some are experimental and may change frequently.
+
+---
+Thanks for visiting.
